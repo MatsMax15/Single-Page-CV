@@ -14,4 +14,4 @@ Create a single-page HTML CV to showcase your career history
 
 ## Result
 
-[![Demo](https://lamf-service.com/cv/demo)](https://lamf-service.com/cv/)
+[![Demo](https://lamf-service.com/cv/demo.png)](https://lamf-service.com/cv/)
